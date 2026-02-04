@@ -148,5 +148,8 @@ goat_ranking_final.csv
 Este proyecto no pretende declarar un GOAT absoluto, sino ofrecer una **herramienta cuantitativa** que ayude a estructurar el debate de forma objetiva y reproducible.
 
 ---
+Para más detalles sobre las fuentes y recursos utilizados, ver [RECURSOS.md].
+
+
 
 *(Existe también una versión del README en inglés para uso internacional o portfolio profesional.)*
