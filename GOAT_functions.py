@@ -52,8 +52,6 @@ def prepare_metrics_df(df):
     ].copy()
 
 from sklearn.preprocessing import MinMaxScaler
-import pandas as pd
-
 
 def scale_metrics(df, cols):
     scaler = MinMaxScaler()
